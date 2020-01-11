@@ -64,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-
+I'm passionate about humanity's access to space and advancing civilization beyond Earth. Through software development, data analysis, and mission management, I seek to continue contributing to meaningful endeavors to better understand our universe.
 
