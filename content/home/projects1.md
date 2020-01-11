@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   location = "UC Berkeley"
   date_start = "2019-01-01"
   date_end = "2019-08-31"
-  description = """Development of Turbulence modeling for AO software set to deploy at WMKO with P.I. Rebecca Jensen-Clem
-  """
+  description = "Development of Turbulence modeling for AO software set to deploy at WMKO with P.I. Rebecca Jensen-Clem"
  
  
 [[experience]]
@@ -38,9 +37,17 @@ date_format = "Jan 2006"
   location = "UC Berkeley"
   date_start = "2018-09-01"
   date_end = "2019-01-31"
-  description = """
-  *Design and build an autonomous underwater vehicle to compete in the AUVSI Foundation's annual-collegiate RoboSub competition
-  """
+  description = "Design and build an autonomous underwater vehicle to compete in the AUVSI Foundation's annual-collegiate RoboSub competition"
+  
+[[experience]]
+  title = "Exoplanet Survey"
+  company = ""
+  company_url = ""
+  location = "UC Berkeley"
+  date_start = "2017-09-01"
+  date_end = "2018-01-31"
+  description = "Analyze data of transit photometry in order to classify habitable exoplanets using data from Kepler"
+  
   
 
 +++
