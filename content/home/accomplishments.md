@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Leadership and Program Participation"
+title = "Leadership"
 subtitle = ""
 
 # Date format
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = ""
   description = """
-  <br/>
+ 
   Optical Instrumentation Summer School funded by Institute for Scientist & Engineer Educators (ISEE), Keck All-Sky Precision Adaptive Optics (KAPA), and UC Berkeley
   
   """
