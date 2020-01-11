@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "AstroTech Summer School (ISEE & Kapa)"
+  title = "AstroTech Summer School"
   url = "https://isee-telescope-workforce.org/astrotech/"
   organization = "Led By Jessica (UC Berkeley)"
   organization_url = "https://isee-telescope-workforce.org/astrotech/"
@@ -27,9 +27,8 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = ""
   description = """
-  * Demonstrating knowledge of physical principles by designing, building, and testing an astronomical instrument
-  * Gaining and employing professional skills for a lab and team setting
-  * Adopting attitudes and strategies supporting persistence in the field of instrumentation
+  <br/>
+  Optical Instrumentation Summer School funded by Institute for Scientist & Engineer Educators (ISEE), Keck All-Sky Precision Adaptive Optics (KAPA), and UC Berkeley
   
   """
 
