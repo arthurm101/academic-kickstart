@@ -29,8 +29,7 @@ date_format = "Jan 2006"
   date_end = "2019-01-31"
   description = """Stage IV ground-based dark energy
 experiment that will study baryon acoustic
-oscillations.
-  description = """
+oscillations.<br/>
   Responsibilities include:
   * Assembly and development of the fiber optics system designed for the Dark Energy Spectroscopic Instrument (DESI) Project
   * Responsibilities include clean room operations, optical fiber testing, fixture design, and fiber manufacturing
