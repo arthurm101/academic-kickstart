@@ -19,14 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "AstroTech Summer School (ISEE & Kapa)"
-  organization_url = "https://isee-telescope-workforce.org/astrotech/"
-  title = "Led By Jessica Lu of UC Berkeley"
+  title = "AstroTech Summer School (ISEE & Kapa)"
   url = "https://isee-telescope-workforce.org/astrotech/"
-  certificate_url = "https://www.coursera.org"
+  organization = "Led By Jessica (UC Berkeley)"
+  organization_url = "https://isee-telescope-workforce.org/astrotech/"
+  certificate_url = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = ""
+  description = """
+  * Demonstrating knowledge of physical principles by designing, building, and testing an astronomical instrument
+  * Gaining and employing professional skills for a lab and team setting
+  * Adopting attitudes and strategies supporting persistence in the field of instrumentation
+  
+  """
 
 
 
