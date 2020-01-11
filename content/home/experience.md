@@ -28,8 +28,9 @@ date_format = "Jan 2006"
 experiment that will study baryon acoustic
 oscillations."
   Responsibilities include:
-  
+  """
   * Assembly and development of the fiber optics system designed for the Dark Energy Spectroscopic Instrument (DESI) Project
   * Responsibilities include clean room operations, optical fiber testing, fixture design, and fiber manufacturing
-  * Deploying software for tracking during assembly and production phases  """
+  * Deploying software for tracking during assembly and production phases  
+  """
 
