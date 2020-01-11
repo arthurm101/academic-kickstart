@@ -37,7 +37,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin-in
-  icon_pack: fas
+  icon_pack: fab
   link: "https://www.linkedin.com/in/arthur-martirosyan-725619173/"  # For a direct email link, use "mailto:test@example.org".
 - icon: envelope
   icon_pack: fas
