@@ -63,7 +63,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
- &ensp; I'm passionate about humanity's access to space and advancing civilization beyond Earth. Through hardware development, data analysis, and design improvements, I seek to continue contributing to meaningful endeavors to better understand our universe. Through the production, test, and integration of optical components, I am interested in expanding capabilities to transmit high-rate data via laser communication systems.A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.
+<br/>
+ &ensp;  &ensp; &ensp; I'm passionate about humanity's access to space and advancing civilization beyond Earth. Through hardware development, data analysis, and design improvements, I seek to continue contributing to meaningful endeavors to better understand our universe. Through the production, test, and integration of optical components, I am interested in expanding capabilities to transmit high-rate data via laser communication systems.A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.
 
 
